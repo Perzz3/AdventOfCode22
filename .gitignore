@@ -1,0 +1,10 @@
+## Advent of Code Input Files
+*.txt
+
+## Trash files
+*.xml
+*.iml
+*.exe
+
+## Trash directories 
+*\.idea
