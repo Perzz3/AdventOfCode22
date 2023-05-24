@@ -5,6 +5,7 @@
 *.xml
 *.iml
 *.exe
+*.class
 
 ## Trash directories 
 *\.idea
