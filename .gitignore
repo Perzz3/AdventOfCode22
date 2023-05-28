@@ -10,3 +10,4 @@
 ## Trash directories 
 *\.idea
 \.vscode
+\venv
